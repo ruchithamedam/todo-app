@@ -1,4 +1,9 @@
-sleep
-eat
+fly
+drink
 play
-Do python
+replaced todo
+
+finish githubcleanfilledempty
+sleep
+play
+do smtng
